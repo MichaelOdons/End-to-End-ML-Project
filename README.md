@@ -9,5 +9,5 @@
  ```
 
  ```bash
- pip instLL -r requirements.txt 
+ pip install -r requirements.txt 
  ```
