@@ -6,7 +6,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 
 __version__ = '0.0.0'
 
-REPO_NAME = 'End-to-End-ML-Implementation'
+REPO_NAME = 'Stores Price Prediction'
 AUTHOR_USER_NAME = 'MikeOdons'
 SRC_REPO = 'mlProject'
 AUTHOR_EMAIL = 'michaelodonghanro287@gmail.com'
